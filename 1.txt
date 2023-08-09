@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 zasassadad11a
 >>>>>>> Stashed changes
+=======
+zasassadad11a
+>>>>>>> bugfix
